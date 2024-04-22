@@ -1,0 +1,21 @@
+{
+    "name": "kweeye/base64tofile",
+    "description": "How to get file from base64 laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kwee Ye",
+            "email": "yeyintaung.it@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BITStudio\\Base64ToFile\\": "src/"
+        }
+    }
+}
